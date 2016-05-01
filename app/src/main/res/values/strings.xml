@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Umpire Buddy</string>
+    <string name="test">Strikes:</string>
+    <string name="balls">Balls:</string>
+    <string name="strike">Strike</string>
+    <string name="ball">Ball</string>
+    <string name="zero">0</string>
+    <string name="about">About</string>
+    <string name="outMessage">Player walks</string>
+    <string name="newPlayer">New Player</string>
+    <string name="reset">Reset</string>
+    <string name="title_activity_about">About Umpire Buddy</string>
+    <string name="aboutText">Umpire Buddy was created by Cody Smith as a Software Engineering assignment.</string>
+    <string name="outs">Total Outs:</string>
+</resources>
